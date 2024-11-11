@@ -1,0 +1,37 @@
+{
+    "transcript": "",
+    "summary": "",
+    "loan_amount": "",
+    "status_of_offer": "",
+    "indication_of_moving_forward": "",
+    "follow_up_needs": "",
+    "primary": [
+        "interest_rates_(APR)",
+        "down payment",
+        "credit score issues",
+        "mortgage insurance and PMI",
+        "closing cost and monthly payments"
+    ],
+    "loan products": [
+        "fixed rate vs adjustable rate",
+        "loan terms"
+    ],
+    "loan eligibility": [
+        "debt-to-income ratio",
+        "student loans",
+        "job stability",
+        "employment history",
+        "credit history"
+    ],
+    "clarification on loan process Steps": [
+        "pre-approval",
+        "underwriting",
+        "closing timelines",
+        "soft vs hard credit inquiry"
+    ],
+    "interest in competitors and alternatives": [
+        "rate shopping",
+        "faster processes",
+        "alternative financing (FHA loans, VA loans)"
+    ]
+}
